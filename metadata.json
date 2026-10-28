@@ -1,0 +1,6 @@
+{
+  "name": "知心谷心理客服智能体",
+  "description": "基于微信客服规范的心理咨询中心智能客服助手，覆盖咨询问答、方案询价、支付引导、危机阻断与真人工作台闭环。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

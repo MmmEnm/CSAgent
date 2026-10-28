@@ -1,0 +1,6 @@
+{
+  "summary":  "Detailed product design for AI Service Exception Fallback, including the 3-level degradation strategy, circuit breaker logic, and human-in-the-loop escalation paths for the Psychology Assistant.",
+  "updatedAt":  "2026-10-23T09:18:32.141337485Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
